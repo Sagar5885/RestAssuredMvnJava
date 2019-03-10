@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="sagarrestassured.excelDriven"/>
+      <class name="sagarrestassured.SeleniumTest"/>
+      <class name="sagarrestassured.basicJiraAPITest2"/>
+      <class name="sagarrestassured.basicJiraAPITest"/>
+      <class name="sagarrestassured.basicJiraAPITest3"/>
+      <class name="sagarrestassured.basictest"/>
+      <class name="sagarrestassured.basicTwitterAPITest1"/>
+      <class name="sagarrestassured.staticJson"/>
+      <class name="sagarrestassured.RestAssuredTest"/>
+      <class name="sagarrestassured.basic3"/>
+      <class name="sagarrestassured.basic2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
